@@ -14,7 +14,7 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)  
-2. [System Architecture & Components](#system-architecture--components)  
+2. [Components](#system-architecture--components)  
 3. [Distributed System Concepts Applied](#distributed-system-concepts-applied)  
 4. [Implementation Details](#implementation-details)  
 5. [Challenges & Solutions](#challenges--solutions)  
@@ -23,8 +23,7 @@
 8. [Setup Instructions](#setup-instructions)  
 9. [Folder Structure](#folder-structure)  
 10. [Usage](#usage)  
-11. [Contributing](#contributing)  
-12. [License](#license)
+11. [Contributing](#contributing) 
 
 ---
 
