@@ -14,7 +14,7 @@
 
 ## Table of Contents
 1. [Project Overview](#project-overview)  
-2. [Components](#system-architecture--components)  
+2. [Components](#components)  
 3. [Distributed System Concepts Applied](#distributed-system-concepts-applied)  
 4. [Implementation Details](#implementation-details)  
 5. [Challenges & Solutions](#challenges--solutions)  
