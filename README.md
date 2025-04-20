@@ -177,7 +177,3 @@ LiveDocs/
 ## Contributing
 Contributions are welcome! Please fork the repo and open a pull request with your changes. Follow code style and include tests where appropriate.
 
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
