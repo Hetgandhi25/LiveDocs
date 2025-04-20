@@ -42,11 +42,8 @@ The proposed real‑time collaborative document editor allows multiple users to 
 
 ---
 
-## System Architecture & Components
+## Components
 
-![Architecture Diagram](docs/architecture.png) _(add your architecture diagram to `docs/architecture.png`)_
-
-**Components:**
 - **Clients (Frontend):** React + TypeScript application running in browsers.  
 - **Server (Backend):** Node.js + Express application handling API requests and Socket.IO connections.  
 - **WebSockets Layer:** Socket.IO for bidirectional real‑time communication.  
