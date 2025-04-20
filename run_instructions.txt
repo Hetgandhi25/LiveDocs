@@ -1,0 +1,63 @@
+
+*********************************
+* LiveDocs - Setup Instructions *
+*********************************
+
+
+***** Backend Setup *****
+
+Navigate to the server directory:
+
+> cd server
+
+Install the backend dependencies:
+
+> npm install
+
+Create a .env file in the server directory:
+
+touch .env
+
+Inside the .env file, add the following environment variables:
+
+DATABASE_URL=<your MongoDB URI>
+CLIENT_ORIGIN=http://localhost:5173
+
+Make sure you replace <your MongoDB URI> with your actual MongoDB connection string.
+
+Start the backend server:
+
+> npm run dev
+
+The backend server will now be running on:  
+http://localhost:3000
+
+-----------------------------------------------------------------------------------------------
+
+***** Frontend Setup *****
+
+Open a new terminal window and navigate to the client directory:
+
+> cd client
+
+Install the client dependencies:
+
+> npm install
+
+Create a .env file in the client directory:
+
+touch .env
+
+Add the following environment variable inside the file:
+
+VITE_SERVER_URL=http://localhost:3000
+
+Start the React application:
+
+> npm run dev
+
+The frontend app will now be running on:  
+http://localhost:5173
+
+Enjoy !!
+
